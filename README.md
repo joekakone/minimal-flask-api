@@ -1,4 +1,4 @@
-# minimal-flask-api
+# A Minimal API with Flask
 Hello, I'm Joseph Konka, Python enthousiast. In this porject, I'm building a Minimal API with Flask and Deploy it on Heroku. You can see the result [here](https://minimal-flask-api-jk.herokuapp.com)
 
 ## Features
